@@ -1,0 +1,16 @@
+# Ignore Node Modules
+node_modules/
+
+# Ignore Backend Node Modules
+backend/node_modules/
+
+# Ignore Environment Files
+.env
+
+# Ignore Firebase Cache
+.firebase/
+
+# Ignore Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
